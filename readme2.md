@@ -1,3 +1,2 @@
-Dies ist ein neues HyperProject
-	sdfjhklsjfhklsjfhklsdjfhk
-jkasdhkasjfhkjashfdkafhjkjshdfkhs
+Dies ist ein neues HyperProjekt
+diese Zeile erzeugt vielleicht einen Merge-COnflict
